@@ -1,6 +1,7 @@
 ---
 dg-home: true
 dg-publish: true
+tags: [gardenEntry]
 ---
 
 # Chabad History Wiki - Index
