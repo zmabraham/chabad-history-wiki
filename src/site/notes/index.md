@@ -1,9 +1,3 @@
----
-dg-home: true
-dg-publish: true
-tags: [gardenEntry]
----
-
 # Chabad History Wiki - Index
 
 > **Last Updated:** 2026-04-13 18:15
@@ -39,28 +33,28 @@ tags: [gardenEntry]
 ### People (10)
 | ID | Name | Role | Era |
 |----|------|------|-----|
-| \[\[E001-rayatz\]\] | Rabbi Yosef Yitzchak Schneersohn | Sixth Rebbe | 1880-1950 |
-| \[\[E002-rashab\]\] | Rabbi Shalom Dovber Schneersohn | Fifth Rebbe | 1860-1920 |
-| \[\[E003-raza\]\] | Rabbi Zalman Aharon | Uncle of Rayatz | - |
-| \[\[E004-rashag\]\] | Rabbi Shmaryahu Gurary | Son-in-law of Rayatz | - |
-| \[\[E005-ramash\]\] | Rabbi Menachem Mendel Schneerson | Seventh Rebbe | 1902-1994 |
-| \[\[E006-dovid-butcher\]\] | Reb Dovid the Butcher | Merchant | Lubavitch |
-| \[\[E007-shimon-rabinowitz\]\] | Shimon Rabinowitz | Childhood friend | Lubavitch |
-| \[\[E008-shterna-sara\]\] | Rebbetzin Shterna Sara | Mother of Rayatz | 1850s-1940s |
-| \[\[E009-shmuel-maharash\]\] | Rabbi Shmuel (Maharash) | Fourth Rebbe | 1834-1882 |
-| \[\[E010-nechama-dina\]\] | Rebbetzin Nechama Dina Schneersohn | Wife of Rayatz | 1880s-1960s |
+| [[E001-rayatz]] | Rabbi Yosef Yitzchak Schneersohn | Sixth Rebbe | 1880-1950 |
+| [[E002-rashab]] | Rabbi Shalom Dovber Schneersohn | Fifth Rebbe | 1860-1920 |
+| [[E003-raza]] | Rabbi Zalman Aharon | Uncle of Rayatz | - |
+| [[E004-rashag]] | Rabbi Shmaryahu Gurary | Son-in-law of Rayatz | - |
+| [[E005-ramash]] | Rabbi Menachem Mendel Schneerson | Seventh Rebbe | 1902-1994 |
+| [[E006-dovid-butcher]] | Reb Dovid the Butcher | Merchant | Lubavitch |
+| [[E007-shimon-rabinowitz]] | Shimon Rabinowitz | Childhood friend | Lubavitch |
+| [[E008-shterna-sara]] | Rebbetzin Shterna Sara | Mother of Rayatz | 1850s-1940s |
+| [[E009-shmuel-maharash]] | Rabbi Shmuel (Maharash) | Fourth Rebbe | 1834-1882 |
+| [[E010-nechama-dina]] | Rebbetzin Nechama Dina Schneersohn | Wife of Rayatz | 1880s-1960s |
 
 ### Places
-- \[\[Lubavitch\]\] — Chabad capital for 102 years (1813-1915)
-- \[\[Rostov-on-Don\]\] — Rashab's later years
-- \[\[Leningrad/St. Petersburg\]\] — Site of 1927 arrest
-- \[\[Riga, Latvia\]\] — Exile headquarters (1927-1934)
-- \[\[Warsaw, Poland\]\] — Pre-WWII refuge
-- \[\[Brooklyn, New York\]\] — Final headquarters
+- [[Lubavitch]] — Chabad capital for 102 years (1813-1915)
+- [[Rostov-on-Don]] — Rashab's later years
+- [[Leningrad/St. Petersburg]] — Site of 1927 arrest
+- [[Riga, Latvia]] — Exile headquarters (1927-1934)
+- [[Warsaw, Poland]] — Pre-WWII refuge
+- [[Brooklyn, New York]] — Final headquarters
 
 ### Institutions
-- \[\[Yeshivas Tomchei Temimim\]\] — Founded 1897 in Lubavitch
-- \[\[Toras Emes Yeshiva\]\] — Founded 1911 in Hebron
+- [[Yeshivas Tomchei Temimim]] — Founded 1897 in Lubavitch
+- [[Toras Emes Yeshiva]] — Founded 1911 in Hebron
 
 ---
 
@@ -68,11 +62,11 @@ tags: [gardenEntry]
 
 | ID | Title | Tags |
 |----|-------|------|
-| \[\[C001-leadership-transition\]\] | Leadership Transition in Chabad | leadership, succession |
-| \[\[C002-undaunted-courage\]\] | Undaunted Courage | courage, resistance |
-| \[\[C003-adaptability-leadership\]\] | Adaptability in Leadership | adaptability, context |
-| \[\[C004-spiritual-rootedness\]\] | Spiritual Rootedness | spirituality, torah |
-| \[\[C005-first-arrest-1891\]\] | First Arrest (1891) | arrest, courage |
+| [[C001-leadership-transition]] | Leadership Transition in Chabad | leadership, succession |
+| [[C002-undaunted-courage]] | Undaunted Courage | courage, resistance |
+| [[C003-adaptability-leadership]] | Adaptability in Leadership | adaptability, context |
+| [[C004-spiritual-rootedness]] | Spiritual Rootedness | spirituality, torah |
+| [[C005-first-arrest-1891]] | First Arrest (1891) | arrest, courage |
 
 ---
 
@@ -110,9 +104,9 @@ tags: [gardenEntry]
 
 ## Navigation
 
-- \[\[Summaries\]\] — Source summaries
-- \[\[Entities\]\] — People, places, institutions
-- \[\[Concepts\]\] — Key ideas and frameworks
-- \[\[Syntheses\]\] — Cross-source analyses
-- \[\[Explorations\]\] — Question-driven deep dives
-- \[\[Log\]\] — Activity log
+- [[Summaries]] — Source summaries
+- [[Entities]] — People, places, institutions
+- [[Concepts]] — Key ideas and frameworks
+- [[Syntheses]] — Cross-source analyses
+- [[Explorations]] — Question-driven deep dives
+- [[Log]] — Activity log
