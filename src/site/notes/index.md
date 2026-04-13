@@ -1,6 +1,6 @@
 # Chabad History Wiki - Index
 
-> **Last Updated:** 2026-04-13 18:15
+> **Last Updated:** 2026-04-13 20:00
 > **Purpose:** Comprehensive knowledge base of Chabad history from Alter Rebbe through modern times
 
 ---
@@ -25,12 +25,15 @@
 | S014 | Toldot Chabad bi-Rusya ha-Tzarit (Preface) | Book | ✅ Complete | 2026-04-13 |
 | S015 | Toldot Chabad bi-Polin, Lita u-Latvia (Vol 5) | Book | ✅ Complete | 2026-04-13 |
 | S016 | Toldot Chabad bi-Artzot HaBrit (United States) | Book | ✅ Complete | 2026-04-13 |
+| S017 | A Prince in Prison | Document | ✅ Complete | 2026-04-13 |
+| **S018** | **The Heroic Struggle** | **Book** | ✅ **Complete** | **2026-04-13** |
 
 ---
 
 ## Entities
 
-### People (10)
+### People (23)
+
 | ID | Name | Role | Era |
 |----|------|------|-----|
 | [[E001-rayatz]] | Rabbi Yosef Yitzchak Schneersohn | Sixth Rebbe | 1880-1950 |
@@ -43,22 +46,43 @@
 | [[E008-shterna-sara]] | Rebbetzin Shterna Sara | Mother of Rayatz | 1850s-1940s |
 | [[E009-shmuel-maharash]] | Rabbi Shmuel (Maharash) | Fourth Rebbe | 1834-1882 |
 | [[E010-nechama-dina]] | Rebbetzin Nechama Dina Schneersohn | Wife of Rayatz | 1880s-1960s |
+| [[E011-rayatz-arrest-1927]] | Arrest of 1927 | Event | 1927 |
+| [[E012-nissan-teacher]] | Nissan the Teacher | Educator | Rostov |
+| [[E013-aronovski]] | Aronovski | Figure | - |
+| [[E014-katznelenbogen]] | Rabbi Dovid Tevel Katzenelenbogen | Chief Rabbi of Leningrad | 1920s |
+| [[E015-nachmanson]] | Nachmanson | G.P.U. Official | 1920s |
+| [[E016-shneur-slonim]] | Shneur Slonim | Chassid | - |
+| [[E017-shmuel-horovitch]] | Shmuel Horovitch | Chassid | - |
+| [[E018-yechezkel-kharkov]] | Yechezkel of Kharkov | Chassid | - |
+| [[E019-lulav-gpu]] | Lulav | G.P.U. Official | 1920s |
+| [[E020-michoel-dworkin]] | Reb Michoel Dworkin | Chassid | 1920s |
+| [[E021-madam-peshkova]] | Madam Peshkova | Political Prisoner Relief | 1920s-1930s |
+| [[E022-elyahu-chaim-althaus]] | Rabbi Eliyahu Chaim Althaus | Chassid, Secretary | 1920s-1930s |
 
 ### Places
-- [[Lubavitch]] — Chabad capital for 102 years (1813-1915)
-- [[Rostov-on-Don]] — Rashab's later years
-- [[Leningrad/St. Petersburg]] — Site of 1927 arrest
-- [[Riga, Latvia]] — Exile headquarters (1927-1934)
-- [[Warsaw, Poland]] — Pre-WWII refuge
-- [[Brooklyn, New York]] — Final headquarters
+
+| Name | Description | Era |
+|------|-------------|-----|
+| [[Lubavitch]] | Chabad capital for 102 years (1813-1915) | - |
+| [[Rostov-on-Don]] | Rashab's later years | - |
+| [[Leningrad/St. Petersburg]] | Site of 1927 arrest | 1920s |
+| [[Riga, Latvia]] | Exile headquarters (1927-1934) | - |
+| [[Warsaw, Poland]] | Pre-WWII refuge | - |
+| [[Brooklyn, New York]] | Final headquarters | - |
+| [[Spalerno Prison]] | Notorious G.P.U. prison in Leningrad | 1927 |
+| [[Kostroma]] | Exile city on Volga River | 1927 |
 
 ### Institutions
+
 - [[Yeshivas Tomchei Temimim]] — Founded 1897 in Lubavitch
 - [[Toras Emes Yeshiva]] — Founded 1911 in Hebron
+- [[The Va'ad]] — Underground organization (1922-1934)
+- [[Yevkom]] — Commissariat for Jewish National Affairs (1918-1920s)
+- [[Yevsektzia]] — Jewish Sections of Communist Party (1918-1930s)
 
 ---
 
-## Concepts (5)
+## Concepts (11)
 
 | ID | Title | Tags |
 |----|-------|------|
@@ -67,6 +91,12 @@
 | [[C003-adaptability-leadership]] | Adaptability in Leadership | adaptability, context |
 | [[C004-spiritual-rootedness]] | Spiritual Rootedness | spirituality, torah |
 | [[C005-first-arrest-1891]] | First Arrest (1891) | arrest, courage |
+| [[C006-yud-beis-tammuz]] | 12-13 Tammuz Liberation | liberation, 1927 |
+| [[C007-mesirus-nefesh]] | Self-Sacrifice | courage, faith |
+| [[C008-yoshvim]] | Those Who Sit in Torah Study | education, underground |
+| [[C009-gpu-soviet-secret-police]] | G.P.U. — Soviet Secret Police | persecution, soviet |
+| [[C010-yevsektzia]] | Yevsektzia — Jewish Communists | persecution, soviet |
+| [[C011-spiritual-courage]] | Spiritual Courage in Face of Persecution | courage, faith |
 
 ---
 
@@ -84,9 +114,20 @@
 - **1893, Rosh HaShanah:** Rashab accepts leadership
 - **1895, Summer:** The Akedah - induction as leader
 - **1897, September 12:** Founding of Tomchei Temimim
-- **1915, October 24:** Departure from Lubavitch
-- **1920:** Rayatz becomes sixth Rebbe
-- **1927, June 14-July 3:** Arrest, imprisonment, liberation
+- **1917:** Bolshevik Revolution; Yevkom and Yevsektzia established
+- **1918:** Kehillah (Jewish community) abolished
+- **1920:** First Yevsektzia attempt to arrest Rebbe (Tammuz)
+- **1921:** First anti-Jewish trials (Vitebsk cheder, Rostov yeshivah)
+- **1922:** The Va'ad organization founded
+- **1924:** Rebbe moves to Leningrad; covenant with nine temimim (Adar)
+- **1927, June 14 (14 Sivan):** Arrest at midnight by G.P.U.
+- **1927, June 14-July 3 (14 Sivan-3 Tammuz):** Imprisonment in Spalerno (19 days)
+- **1927, July 3 (3 Tammuz):** Exile to Kostroma announced
+- **1927, July 12 (12 Tammuz):** Complete liberation; Rebbe's 47th birthday
+- **1927, July 13 (13 Tammuz):** Certificate of Release issued; Baruch HaGomel
+- **1927, July 15 (15 Tammuz):** Returns to Leningrad; recites HaGomel
+- **1927-1928:** Pressure continues; Rebbe moves to Malachovka
+- **1928:** Rebbe departs Russia
 - **1940, March:** Arrival in America
 - **1950:** Passing of Rayatz
 
@@ -94,11 +135,11 @@
 
 ## Statistics
 
-- **Total Sources:** 16 (Undaunted + 3 Toldot Chabad volumes)
-- **Sources Processed:** 16 (all complete)
-- **Entities Created:** 10 people
-- **Concepts Identified:** 5 concepts
-- **Wiki Pages Total:** 31
+- **Total Sources:** 18 (Undaunted + 3 Toldot Chabad volumes + S017 + S018)
+- **Sources Processed:** 18 (all complete)
+- **Entities Created:** 22 people + 8 places + 5 institutions = 35 entities
+- **Concepts Identified:** 11 concepts
+- **Wiki Pages Total:** 53
 
 ---
 

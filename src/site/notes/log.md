@@ -112,4 +112,49 @@ Extracted and processed three volumes from Toldot Chabad series:
 
 ---
 
-*Last entry: 2026-04-13 18:15*
+### 18:36 — S017 "A Prince in Prison" Ingestion
+- Source: Google Doc (5,523 lines) about 1927 arrest
+- Created [[S017-a-prince-in-prison]] summary
+- Extracted 8 new entities:
+  - [[E011-rayatz-arrest-1927]] — The arrest event itself
+  - [[E012-nissan-teacher]] — Nissan the teacher
+  - [[E013-aronovski]] — Aronovski
+  - [[E014-katznelenbogen]] — Rabbi Dovid Tevel Katzenelenbogen, Chief Rabbi of Leningrad
+  - [[E015-nachmanson]] — Nachmanson, G.P.U. official
+  - [[E016-shneur-slonim]] — Shneur Slonim
+  - [[E017-shmuel-horovitch]] — Shmuel Horovitch
+  - [[E018-yechezkel-kharkov]] — Yechezkel of Kharkov
+- Created 3 new concepts:
+  - [[C006-yud-beis-tammuz]] — 12-13 Tammuz liberation
+  - [[C007-mesirus-nefesh]] — Self-sacrifice
+  - [[C008-yoshvim]] — Those who sit in Torah study
+- Wiki statistics: 42 total pages (31 + 11 new)
+
+---
+
+### 20:00 — S018 "The Heroic Struggle" Ingestion
+- Source: Google Doc (15,841 lines) - comprehensive book on 1927 arrest and liberation
+- Created [[S018-the-heroic-struggle]] summary
+- Extracted 5 new entities:
+  - [[E019-lulav-gpu]] — Lulav, G.P.U. official from Riga
+  - [[E020-michoel-dworkin]] — Reb Michoel Dworkin, chassid who prepared Kostroma
+  - [[E021-madam-peshkova]] — Madam Peshkova, Political Prisoner Relief
+  - [[E022-elyahu-chaim-althaus]] — Rabbi Eliyahu Chaim Althaus, secretary and eyewitness
+  - Places: Spalerno Prison, Kostroma (city of exile)
+- Created 3 new concepts:
+  - [[C009-gpu-soviet-secret-police]] — G.P.U. structure and methods
+  - [[C010-yevsektzia]] — Jewish Communist collaborators
+  - [[C011-spiritual-courage]] — The Rebbe's response to persecution
+- Updated timeline with detailed chronology of 1927 events
+- Wiki statistics: 53 total pages (42 + 11 new)
+
+### 20:00 — Final Wiki Statistics (S018 Complete)
+- Total Sources: 18 (Undaunted + 3 Toldot Chabad + S017 + S018)
+- Sources Processed: 18 (100% complete)
+- Entities: 22 people + 8 places + 5 institutions = 35 entities
+- Concepts: 11 concepts
+- Wiki Pages Total: 53
+
+---
+
+*Last entry: 2026-04-13 20:00*
