@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Undaunted - Chapter 6: The Underground Years"
 type: summary
 source: S007
@@ -55,5 +54,5 @@ This period demonstrated:
 
 ---
 
-*Previous: \[\[S006-undaunted-chapter5\]\] — Chapter 5: Exile*
-*Next: \[\[S008-undaunted-chapter7\]\] — Chapter 7*
+*Previous: [[S006-undaunted-chapter5]] — Chapter 5: Exile*
+*Next: [[S008-undaunted-chapter7]] — Chapter 7*

@@ -1,13 +1,12 @@
 ---
-dg-publish: true
 title: "Rabbi Shalom Dovber Schneersohn (The Rashab)"
 type: entity
 entity_type: person
 created: 2026-04-13
 updated: 2026-04-13
 tags: [rebbe, fifth-rebbe, rashab, 1860-1920, leadership]
-related: \[\[E001-rayatz\]\], \[\[E003-raza\]\]
-sources: \[\[S001-undaunted-preface\]\]
+related: []
+sources: []
 ---
 
 # Rabbi Shalom Dovber Schneersohn (The Rashab)
@@ -32,9 +31,9 @@ Fifth Lubavitcher Rebbe (1860-1920), father of the Rayatz. Instilled in his son 
 
 ## Sources
 
-- \[\[S001-undaunted-preface\]\] — Mentioned as father of the Rayatz
+- [[S001-undaunted-preface]] — Mentioned as father of the Rayatz
 
 ## See Also
 
-- \[\[E001-rayatz\]\] — His son and successor
-- \[\[Leadership Transition in Chabad\]\]
+- [[E001-rayatz]] — His son and successor
+- [[Leadership Transition in Chabad]]

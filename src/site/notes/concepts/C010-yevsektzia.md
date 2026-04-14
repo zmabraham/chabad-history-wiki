@@ -5,7 +5,6 @@ type: concept
 era: 1920-1930
 topics: [soviet-persecution, jewish-communists, anti-religious-campaign]
 related: [S018-the-heroic-struggle, C009-gpu-soviet-secret-police, rayatz]
-
 ---
 
 # Yevsektzia (Yevsektsiya)

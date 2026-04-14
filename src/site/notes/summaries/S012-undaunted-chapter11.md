@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Undaunted - Chapter 11: A Global Vision"
 type: summary
 source: S012
@@ -87,5 +86,5 @@ This period demonstrated:
 
 ---
 
-*Previous: \[\[S011-undaunted-chapter10\]\] — Chapter 10*
-*Next: \[\[S013-undaunted-afterword\]\] — Afterword*
+*Previous: [[S011-undaunted-chapter10]] — Chapter 10*
+*Next: [[S013-undaunted-afterword]] — Afterword*

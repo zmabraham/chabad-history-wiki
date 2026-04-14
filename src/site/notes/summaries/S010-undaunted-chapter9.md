@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Undaunted - Chapter 9: The World is Shattered"
 type: summary
 source: S010
@@ -76,5 +75,5 @@ This rescue demonstrated:
 
 ---
 
-*Previous: \[\[S009-undaunted-chapter8\]\] — Chapter 8*
-*Next: \[\[S011-undaunted-chapter10\]\] — Chapter 10*
+*Previous: [[S009-undaunted-chapter8]] — Chapter 8*
+*Next: [[S011-undaunted-chapter10]] — Chapter 10*

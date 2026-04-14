@@ -1,13 +1,12 @@
 ---
-dg-publish: true
 title: "Rabbi Shmuel (Maharash)"
 type: entity
 entity_type: person
 created: 2026-04-13
 updated: 2026-04-13
 tags: [rebbe, fourth-rebbe, maharash, 1834-1882, leadership]
-related: \[\[E002-rashab\]\], \[\[E008-shterna-sara\]\]
-sources: \[\[S002-undaunted-chapter1\]\]
+related: []
+sources: []
 ---
 
 # Rabbi Shmuel (Maharash)
@@ -78,10 +77,10 @@ This saying, attributed to the Maharash, became famous in Jewish music and thoug
 
 ## Sources
 
-- \[\[S002-undaunted-chapter1\]\] — Passing, leadership crisis, blessing incident
+- [[S002-undaunted-chapter1]] — Passing, leadership crisis, blessing incident
 
 ## See Also
 
-- \[\[E002-rashab\]\] — His son and successor
-- \[\[Leadership Transition in Chabad\]\]
-- \[\[Prophetic Dreams\]\]
+- [[E002-rashab]] — His son and successor
+- [[Leadership Transition in Chabad]]
+- [[Prophetic Dreams]]

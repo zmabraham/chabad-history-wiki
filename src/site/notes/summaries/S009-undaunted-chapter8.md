@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Undaunted - Chapter 8: Poland - Starting Anew"
 type: summary
 source: S009
@@ -72,5 +71,5 @@ This period established:
 
 ---
 
-*Previous: \[\[S008-undaunted-chapter7\]\] — Chapter 7*
-*Next: \[\[S010-undaunted-chapter9\]\] — Chapter 9*
+*Previous: [[S008-undaunted-chapter7]] — Chapter 7*
+*Next: [[S010-undaunted-chapter9]] — Chapter 9*

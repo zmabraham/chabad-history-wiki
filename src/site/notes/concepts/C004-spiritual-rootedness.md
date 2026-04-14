@@ -1,12 +1,11 @@
 ---
-dg-publish: true
 title: "Spiritual Rootedness"
 type: concept
 created: 2026-04-13
 updated: 2026-04-13
 tags: [spirituality, torah, chasidism, values]
-related: \[\[E001-rayatz\]\]
-sources: \[\[S001-undaunted-preface\]\]
+related: []
+sources: []
 ---
 
 # Spiritual Rootedness
@@ -44,9 +43,9 @@ Thousands of letters, public addresses, and first-person accounts preserve his v
 
 ## Sources
 
-- \[\[S001-undaunted-preface\]\] — Description of his spiritual character
+- [[S001-undaunted-preface]] — Description of his spiritual character
 
 ## See Also
 
-- \[\[Yeshivas Tomchei Temimim\]\]
-- \[\[Underground Jewish Education\]\]
+- [[Yeshivas Tomchei Temimim]]
+- [[Underground Jewish Education]]

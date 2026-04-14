@@ -5,7 +5,6 @@ type: person
 era: 1920-1930
 roles: [chassid, underground-educator]
 related: [rayatz, C006-yud-beis-tammuz, S018-the-heroic-struggle]
-
 ---
 
 # Reb Michoel Dworkin

@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Undaunted - Chapter 7: The Voyage"
 type: summary
 source: S008
@@ -67,5 +66,5 @@ The journey established:
 
 ---
 
-*Previous: \[\[S007-undaunted-chapter6\]\] — Chapter 6*
-*Next: \[\[S009-undaunted-chapter8\]\] — Chapter 8*
+*Previous: [[S007-undaunted-chapter6]] — Chapter 6*
+*Next: [[S009-undaunted-chapter8]] — Chapter 8*

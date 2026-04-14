@@ -10,7 +10,6 @@ era: 1920-1930
 people: [rayatz, mmm, nachmanson, lulav, peshkova]
 places: [leningrad, spalerno, kostroma]
 related: [S017-a-prince-in-prison, E011-rayatz-arrest-1927, C006-yud-beis-tammuz]
-
 ---
 
 # The Heroic Struggle: The Arrest and Liberation of Rabbi Yosef Y. Schneersohn of Lubavitch

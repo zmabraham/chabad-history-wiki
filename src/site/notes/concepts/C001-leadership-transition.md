@@ -1,12 +1,11 @@
 ---
-dg-publish: true
 title: "Leadership Transition in Chabad"
 type: concept
 created: 2026-04-13
 updated: 2026-04-13
 tags: [leadership, succession, chabad, rebbes]
-related: \[\[E001-rayatz\]\], \[\[E002-rashab\]\], \[\[E005-ramash\]\]
-sources: \[\[S001-undaunted-preface\]\]
+related: []
+sources: []
 ---
 
 # Leadership Transition in Chabad
@@ -48,9 +47,9 @@ The Rayatz's sense of mission was instilled by his father, the Rashab. This tran
 
 ## Sources
 
-- \[\[S001-undaunted-preface\]\] — Introduction to the Rebbe's life and mission
+- [[S001-undaunted-preface]] — Introduction to the Rebbe's life and mission
 
 ## See Also
 
-- \[\[Undaunted Courage\]\]
-- \[\[Adaptability in Leadership\]\]
+- [[Undaunted Courage]]
+- [[Adaptability in Leadership]]

@@ -1,12 +1,11 @@
 ---
-dg-publish: true
 title: "Adaptability in Leadership"
 type: concept
 created: 2026-04-13
 updated: 2026-04-13
 tags: [leadership, adaptability, reinvention, context]
-related: \[\[E001-rayatz\]\]
-sources: \[\[S001-undaunted-preface\]\]
+related: []
+sources: []
 ---
 
 # Adaptability in Leadership
@@ -45,9 +44,9 @@ In America, this adaptability led to:
 
 ## Sources
 
-- \[\[S001-undaunted-preface\]\] — Theme of adaptability across eras
+- [[S001-undaunted-preface]] — Theme of adaptability across eras
 
 ## See Also
 
-- \[\[Undaunted Courage\]\]
-- \[\[Underground Jewish Education\]\]
+- [[Undaunted Courage]]
+- [[Underground Jewish Education]]

@@ -1,13 +1,12 @@
 ---
-dg-publish: true
 title: "Rabbi Shmaryahu Gurary (The Rashag)"
 type: entity
 entity_type: person
 created: 2026-04-13
 updated: 2026-04-13
 tags: [rebbe-family, rashag, son-in-law]
-related: \[\[E001-rayatz\]\]
-sources: \[\[S001-undaunted-preface\]\]
+related: []
+sources: []
 ---
 
 # Rabbi Shmaryahu Gurary (The Rashag)
@@ -23,4 +22,4 @@ Eldest son-in-law of the Rayatz (sixth Rebbe).
 
 ## Sources
 
-- \[\[S001-undaunted-preface\]\] — Listed among notable family members
+- [[S001-undaunted-preface]] — Listed among notable family members

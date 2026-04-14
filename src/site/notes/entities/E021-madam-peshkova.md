@@ -6,7 +6,6 @@ era: 1920-1930
 roles: [political-activist, prisoner-relief-advocate]
 organizations: [political-prisoner-relief]
 related: [rayatz, C006-yud-beis-tammuz, S018-the-heroic-struggle]
-
 ---
 
 # Madam Peshkova

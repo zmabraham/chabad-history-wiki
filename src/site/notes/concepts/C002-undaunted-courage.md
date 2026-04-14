@@ -1,12 +1,11 @@
 ---
-dg-publish: true
 title: "Undaunted Courage"
 type: concept
 created: 2026-04-13
 updated: 2026-04-13
 tags: [courage, leadership, resistance, faith]
-related: \[\[E001-rayatz\]\]
-sources: \[\[S001-undaunted-preface\]\]
+related: []
+sources: []
 ---
 
 # Undaunted Courage
@@ -43,9 +42,9 @@ He remained — undaunted.
 
 ## Sources
 
-- \[\[S001-undaunted-preface\]\] — Core theme introduced
+- [[S001-undaunted-preface]] — Core theme introduced
 
 ## See Also
 
-- \[\[Leadership Transition in Chabad\]\]
-- \[\[Adaptability in Leadership\]\]
+- [[Leadership Transition in Chabad]]
+- [[Adaptability in Leadership]]

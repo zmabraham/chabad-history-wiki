@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Undaunted - Chapter 3: The Secret Covenant"
 type: summary
 source: S004
@@ -55,7 +54,7 @@ After the burial, the Rayatz confided in Berel Rivkin about his father's warning
 
 | Person | Role | Significance |
 |--------|------|--------------|
-| \[\[Berel Rivkin\]\] | Confidant | Recipient of first maamarim; witness to transition |
+| [[Berel Rivkin]] | Confidant | Recipient of first maamarim; witness to transition |
 
 ## The Secret Covenant
 
@@ -86,5 +85,5 @@ The Rayatz fulfilled these instructions by:
 
 ---
 
-*Previous: \[\[S003-undaunted-chapter2\]\] — Chapter 2: Tomchei Temilim*
-*Next: \[\[S005-undaunted-chapter4\]\] — Chapter 4*
+*Previous: [[S003-undaunted-chapter2]] — Chapter 2: Tomchei Temilim*
+*Next: [[S005-undaunted-chapter4]] — Chapter 4*

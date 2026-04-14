@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Undaunted - Afterword: A Maamar in Brooklyn"
 type: summary
 source: S013
@@ -103,5 +102,5 @@ This moment marked:
 
 ---
 
-*Previous: \[\[S012-undaunted-chapter11\]\] — Chapter 11*
+*Previous: [[S012-undaunted-chapter11]] — Chapter 11*
 *End of "Undaunted"*

@@ -5,7 +5,6 @@ type: concept
 era: 1920-1930
 topics: [soviet-persecution, political-repression, arrest-1927]
 related: [S018-the-heroic-struggle, rayatz, C006-yud-beis-tammuz]
-
 ---
 
 # G.P.U. (Gosudarstvennoye Politicheskoye Upravlenie)

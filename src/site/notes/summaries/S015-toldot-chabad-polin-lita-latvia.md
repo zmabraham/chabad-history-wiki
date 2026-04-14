@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Toldot Chabad bi-Polin, Lita u-Latvia (Volume 5)"
 type: summary
 source: S015
@@ -84,5 +83,5 @@ This volume serves as:
 
 ---
 
-*Related: \[\[S014-toldot-chabad-russia-preface\]\] — Volume 1 (Tsarist Russia)*
-*Related: \[\[S016-toldot-chabad-artzot-habrit\]\] — Volume on United States*
+*Related: [[S014-toldot-chabad-russia-preface]] — Volume 1 (Tsarist Russia)*
+*Related: [[S016-toldot-chabad-artzot-habrit]] — Volume on United States*

@@ -5,7 +5,6 @@ type: person
 era: 1920-1930
 roles: [chassid,-secretary, eyewitness]
 related: [rayatz, C006-yud-beis-tammuz, S018-the-heroic-struggle]
-
 ---
 
 # Rabbi Eliyahu Chaim Althaus (Reb Eliyahu Chaim Althaus)

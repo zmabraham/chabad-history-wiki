@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Toldot Chabad bi-Rusya ha-Tzarit - Preface"
 type: summary
 source: S014
@@ -40,7 +39,7 @@ The work is organized into **656 chapters** covering:
 
 | Person | Role | Period |
 |--------|------|--------|
-| \[\[Alter Rebbe\]\] | Founder of Chabad | 1745-1812 |
+| [[Alter Rebbe]] | Founder of Chabad | 1745-1812 |
 | Rabbi Menachem Mendel of Vitebsk | Leader of aliyah | Contemporary |
 | The Mitteler Rebbe | Successor | 1773-1827 |
 | The Tzemach Tzedek | Grandson, author of responsa | 1789-1866 |

@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Toldot Chabad bi-Artzot HaBrit (History of Chabad in the United States)"
 type: summary
 source: S016
@@ -81,5 +80,5 @@ This period (1940s onward) marked:
 
 ---
 
-*Related: \[\[S014-toldot-chabad-russia-preface\]\] — Volume on Tsarist Russia*
-*Related: \[\[S015-toldot-chabad-polin-lita-latvia\]\] — Volume 5 (Poland, Lithuania, Latvia)*
+*Related: [[S014-toldot-chabad-russia-preface]] — Volume on Tsarist Russia*
+*Related: [[S015-toldot-chabad-polin-lita-latvia]] — Volume 5 (Poland, Lithuania, Latvia)*

@@ -1,12 +1,11 @@
 ---
-dg-publish: true
 title: "First Arrest (1891)"
 type: concept
 created: 2026-04-13
 updated: 2026-04-13
 tags: [arrest, courage, 1891, defense-of-jews]
-related: \[\[E001-rayatz\]\], \[\[E006-dovid-butcher\]\]
-sources: \[\[S002-undaunted-chapter1\]\]
+related: []
+sources: []
 ---
 
 # First Arrest (1891)
@@ -23,8 +22,8 @@ The first of seven arrests in the life of Rabbi Yosef Yitzchak Schneersohn (the 
 - **Context:** Bustling market fair with farmers, horses, buggies
 
 ### What Happened
-1. Young Yosef Yitzchak (age 11, almost 12) walked with friend \[\[Shimon Rabinowitz\]\]
-2. They met \[\[Reb Dovid the Butcher\]\] carrying livestock
+1. Young Yosef Yitzchak (age 11, almost 12) walked with friend [[Shimon Rabinowitz]]
+2. They met [[Reb Dovid the Butcher]] carrying livestock
 3. A police sergeant brutally attacked Reb Dovid "out of nowhere"
 4. Young Yosef Yitzchak defended Reb Dovid
 5. The sergeant ordered Yosef Yitzchak's arrest
@@ -69,10 +68,10 @@ This was the first of seven arrests in Yosef Yitzchak's life:
 
 ## Sources
 
-- \[\[S002-undaunted-chapter1\]\] — Full account of the arrest
+- [[S002-undaunted-chapter1]] — Full account of the arrest
 
 ## See Also
 
-- \[\[Seven Arrests\]\]
-- \[\[Undaunted Courage\]\]
-- \[\[Fearless Defense of Jews\]\]
+- [[Seven Arrests]]
+- [[Undaunted Courage]]
+- [[Fearless Defense of Jews]]

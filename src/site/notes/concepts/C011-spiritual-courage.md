@@ -5,7 +5,6 @@ type: concept
 era: 1920-1930
 topics: [mesirus-nefesh, faith, soviet-persecution]
 related: [rayatz, C007-mesirus-nefesh, S018-the-heroic-struggle]
-
 ---
 
 # Spiritual Courage: The Rebbe's Response to Persecution

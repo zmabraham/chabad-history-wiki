@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Undaunted - Chapter 2: Tomchei Temimim"
 type: summary
 source: S003
@@ -68,7 +67,7 @@ Chapter 2 covers the founding and early development of Yeshivas Tomchei Temimim,
 
 | Person | Role | Significance |
 |--------|------|--------------|
-| \[\[Nechama Dina Schneersohn\]\] | Wife of Rayatz | Second cousin; marriage led to yeshiva founding |
+| [[Nechama Dina Schneersohn]] | Wife of Rayatz | Second cousin; marriage led to yeshiva founding |
 | Rabbi Zalman Havlin | Scholar | Led Hebron branch team |
 | Rabbi Shmuel Gronem | Mashpia | First teacher at Tomchei Temilim |
 | Rabbi Asher Grossman | Chasid | Led initiative to appoint Rayatz as director |
@@ -110,5 +109,5 @@ The Rashab defined students as:
 
 ---
 
-*Previous: \[\[S002-undaunted-chapter1\]\] — Chapter 1: Lubavitch*
-*Next: \[\[S004-undaunted-chapter3\]\] — Chapter 3*
+*Previous: [[S002-undaunted-chapter1]] — Chapter 1: Lubavitch*
+*Next: [[S004-undaunted-chapter3]] — Chapter 3*

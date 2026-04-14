@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Undaunted - Preface"
 type: summary
 source: S001
@@ -58,10 +57,10 @@ Also noted: Chasidim commonly refer to the Rayatz as the **Friedeke Rebbe** (Yid
 
 ## Key Family Members Mentioned
 
-- \[\[The Rashab\]\] — Rabbi Shalom Dovber Schneersohn, fifth Rebbe, father of the Rayatz
-- \[\[The Raza\]\] — Rabbi Zalman Aharon, brother of the Rashab
-- \[\[The Rashag\]\] — Rabbi Shmaryahu Gurary, eldest son-in-law
-- \[\[The Ramash\]\] — Rabbi Menachem Mendel Schneerson, seventh Rebbe (son-in-law and successor)
+- [[The Rashab]] — Rabbi Shalom Dovber Schneersohn, fifth Rebbe, father of the Rayatz
+- [[The Raza]] — Rabbi Zalman Aharon, brother of the Rashab
+- [[The Rashag]] — Rabbi Shmaryahu Gurary, eldest son-in-law
+- [[The Ramash]] — Rabbi Menachem Mendel Schneerson, seventh Rebbe (son-in-law and successor)
 
 ## Source Context
 
@@ -69,4 +68,4 @@ This summary is based on the preface of "Undaunted," which serves as the introdu
 
 ---
 
-*Continue to: \[\[S002-undaunted-chapter1\]\]*
+*Continue to: [[S002-undaunted-chapter1]]*

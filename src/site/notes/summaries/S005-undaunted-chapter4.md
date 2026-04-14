@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Undaunted - Chapter 4: Armed Men at Midnight"
 type: summary
 source: S005
@@ -78,8 +77,8 @@ This arrest was:
 
 | Person | Role | Significance |
 |--------|------|--------------|
-| \[\[Nechama Dina Schneersohn\]\] | Rebbetzin | Present during arrest; supported throughout ordeal |
-| \[\[Rashag\]\] | Son-in-law | Helped during arrest period |
+| [[Nechama Dina Schneersohn]] | Rebbetzin | Present during arrest; supported throughout ordeal |
+| [[Rashag]] | Son-in-law | Helped during arrest period |
 | Chaya Mushka | Daughter | Witnessed arrest; later married seventh Rebbe |
 | Rabbi Eliyahu Chaim Althaus | Documentarian | Letters provide primary source |
 
@@ -89,5 +88,5 @@ This arrest was:
 
 ---
 
-*Previous: \[\[S004-undaunted-chapter3\]\] — Chapter 3: The Secret Covenant*
-*Next: \[\[S006-undaunted-chapter5\]\] — Chapter 5*
+*Previous: [[S004-undaunted-chapter3]] — Chapter 3: The Secret Covenant*
+*Next: [[S006-undaunted-chapter5]] — Chapter 5*

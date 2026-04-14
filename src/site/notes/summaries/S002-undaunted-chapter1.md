@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Undaunted - Chapter 1: Lubavitch"
 type: summary
 source: S002
@@ -88,10 +87,10 @@ Rebbetzin Shterna Sara's dream on Simchat Torah 1879:
 
 | Person | Role | Significance |
 |--------|------|--------------|
-| \[\[Reb Dovid the Butcher\]\] | Local merchant | Victim of police brutality; defended by young Yosef Yitzchak |
-| \[\[Shimon Rabinowitz\]\] | Childhood friend | With Yosef Yitzchak during arrest incident |
-| \[\[Rebbetzin Shterna Sara\]\] | Mother of Rayatz | Had prophetic dream of son's birth |
-| \[\[Rabbi Shmuel (Maharash)\]\] | Fourth Rebbe | Died 1882; created leadership crisis |
+| [[Reb Dovid the Butcher]] | Local merchant | Victim of police brutality; defended by young Yosef Yitzchak |
+| [[Shimon Rabinowitz]] | Childhood friend | With Yosef Yitzchak during arrest incident |
+| [[Rebbetzin Shterna Sara]] | Mother of Rayatz | Had prophetic dream of son's birth |
+| [[Rabbi Shmuel (Maharash)]] | Fourth Rebbe | Died 1882; created leadership crisis |
 
 ## Sources
 
@@ -99,5 +98,5 @@ Rebbetzin Shterna Sara's dream on Simchat Torah 1879:
 
 ---
 
-*Previous: \[\[S001-undaunted-preface\]\] — Preface*
-*Next: \[\[S003-undaunted-chapter2\]\] — Chapter 2*
+*Previous: [[S001-undaunted-preface]] — Preface*
+*Next: [[S003-undaunted-chapter2]] — Chapter 2*

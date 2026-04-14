@@ -1,13 +1,12 @@
 ---
-dg-publish: true
 title: "Rebbetzin Nechama Dina Schneersohn"
 type: entity
 entity_type: person
 created: 2026-04-13
 updated: 2026-04-13
 tags: [rebbe-family, rebbetzin, wife-of-rayatz]
-related: \[\[E001-rayatz\]\]
-sources: \[\[S003-undaunted-chapter2\]\]
+related: []
+sources: []
 ---
 
 # Rebbetzin Nechama Dina Schneersohn
@@ -52,9 +51,9 @@ The wedding directly led to the founding of Yeshivas Tomchei Temilim:
 
 ## Sources
 
-- \[\[S003-undaunted-chapter2\]\] — Engagement, wedding, and role in yeshiva founding
+- [[S003-undaunted-chapter2]] — Engagement, wedding, and role in yeshiva founding
 
 ## See Also
 
-- \[\[Yeshivas Tomchei Temilim\]\]
-- \[\[E001-rayatz\]\] — Her husband
+- [[Yeshivas Tomchei Temilim]]
+- [[E001-rayatz]] — Her husband

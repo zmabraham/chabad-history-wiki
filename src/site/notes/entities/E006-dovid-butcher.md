@@ -1,13 +1,12 @@
 ---
-dg-publish: true
 title: "Reb Dovid the Butcher"
 type: entity
 entity_type: person
 created: 2026-04-13
 updated: 2026-04-13
 tags: [lubavitch, merchant, 1891-arrest]
-related: \[\[E001-rayatz\]\]
-sources: \[\[S002-undaunted-chapter1\]\]
+related: []
+sources: []
 ---
 
 # Reb Dovid the Butcher
@@ -43,9 +42,9 @@ Reb Dovid's encounter with the police sergeant became the catalyst for:
 
 ## Sources
 
-- \[\[S002-undaunted-chapter1\]\] — Marketplace incident and arrest
+- [[S002-undaunted-chapter1]] — Marketplace incident and arrest
 
 ## See Also
 
-- \[\[First Arrest (1891)\]\]
-- \[\[Fearless Defense of Jews\]\]
+- [[First Arrest (1891)]]
+- [[Fearless Defense of Jews]]

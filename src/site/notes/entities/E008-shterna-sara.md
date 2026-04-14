@@ -1,13 +1,12 @@
 ---
-dg-publish: true
 title: "Rebbetzin Shterna Sara Schneersohn"
 type: entity
 entity_type: person
 created: 2026-04-13
 updated: 2026-04-13
 tags: [rebbe-family, rebbetzin, mother-of-rayatz]
-related: \[\[E001-rayatz\]\], \[\[E002-rashab\]\]
-sources: \[\[S001-undaunted-preface\]\], \[\[S002-undaunted-chapter1\]\]
+related: []
+sources: []
 ---
 
 # Rebbetzin Shterna Sara Schneersohn
@@ -61,10 +60,10 @@ When her husband experienced headaches (during leadership transition period), Yo
 
 ## Sources
 
-- \[\[S001-undaunted-preface\]\] — Mentioned as mother of Rayatz
-- \[\[S002-undaunted-chapter1\]\] — Prophetic dream, marriage details, family life
+- [[S001-undaunted-preface]] — Mentioned as mother of Rayatz
+- [[S002-undaunted-chapter1]] — Prophetic dream, marriage details, family life
 
 ## See Also
 
-- \[\[Prophetic Dreams\]\]
-- \[\[Leadership Transition in Chabad\]\]
+- [[Prophetic Dreams]]
+- [[Leadership Transition in Chabad]]

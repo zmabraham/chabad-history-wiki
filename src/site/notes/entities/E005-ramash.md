@@ -1,13 +1,12 @@
 ---
-dg-publish: true
 title: "Rabbi Menachem Mendel Schneerson (The Ramash / Seventh Rebbe)"
 type: entity
 entity_type: person
 created: 2026-04-13
 updated: 2026-04-13
 tags: [rebbe, seventh-rebbe, ramash, 1902-1994, leadership]
-related: \[\[E001-rayatz\]\]
-sources: \[\[S001-undaunted-preface\]\]
+related: []
+sources: []
 ---
 
 # Rabbi Menachem Mendel Schneerson (The Ramash / Seventh Rebbe)
@@ -32,9 +31,9 @@ Seventh Lubavitcher Rebbe (1902-1994), son-in-law and successor of the Rayatz. K
 
 ## Sources
 
-- \[\[S001-undaunted-preface\]\] — Listed as successor to the Rayatz
+- [[S001-undaunted-preface]] — Listed as successor to the Rayatz
 
 ## See Also
 
-- \[\[E001-rayatz\]\] — His father-in-law and predecessor
-- \[\[Leadership Transition in Chabad\]\]
+- [[E001-rayatz]] — His father-in-law and predecessor
+- [[Leadership Transition in Chabad]]

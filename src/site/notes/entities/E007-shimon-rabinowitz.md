@@ -1,13 +1,12 @@
 ---
-dg-publish: true
 title: "Shimon Rabinowitz"
 type: entity
 entity_type: person
 created: 2026-04-13
 updated: 2026-04-13
 tags: [lubavitch, childhood-friend, 1891-arrest]
-related: \[\[E001-rayatz\]\]
-sources: \[\[S002-undaunted-chapter1\]\]
+related: []
+sources: []
 ---
 
 # Shimon Rabinowitz
@@ -31,4 +30,4 @@ Witness to the first demonstration of Yosef Yitzchak's fearless defense of Jews.
 
 ## Sources
 
-- \[\[S002-undaunted-chapter1\]\] — Present during marketplace incident
+- [[S002-undaunted-chapter1]] — Present during marketplace incident

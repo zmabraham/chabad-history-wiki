@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Undaunted - Chapter 10: America Iz Nisht Aderesh"
 type: summary
 source: S011
@@ -76,5 +75,5 @@ The Rebbe's arrival marked:
 
 ---
 
-*Previous: \[\[S010-undaunted-chapter9\]\] — Chapter 9*
-*Next: \[\[S012-undaunted-chapter11\]\] — Chapter 11*
+*Previous: [[S010-undaunted-chapter9]] — Chapter 9*
+*Next: [[S012-undaunted-chapter11]] — Chapter 11*

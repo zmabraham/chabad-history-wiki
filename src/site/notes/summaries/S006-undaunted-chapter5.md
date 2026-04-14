@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Undaunted - Chapter 5: Exile"
 type: summary
 source: S006
@@ -44,5 +43,5 @@ Chapter 5 covers the period of exile in Kostroma following the 1927 arrest — t
 
 ---
 
-*Previous: \[\[S005-undaunted-chapter4\]\] — Chapter 4: Armed Men at Midnight*
-*Next: \[\[S007-undaunted-chapter6\]\] — Chapter 6*
+*Previous: [[S005-undaunted-chapter4]] — Chapter 4: Armed Men at Midnight*
+*Next: [[S007-undaunted-chapter6]] — Chapter 6*

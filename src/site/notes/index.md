@@ -36,7 +36,7 @@ tags: [gardenEntry]
 
 ## Entities
 
-### People (23)
+### People (27)
 
 | ID | Name | Role | Era |
 |----|------|------|-----|
@@ -57,11 +57,16 @@ tags: [gardenEntry]
 | [[E015-nachmanson]] | Nachmanson | G.P.U. Official | 1920s |
 | [[E016-shneur-slonim]] | Shneur Slonim | Chassid | - |
 | [[E017-shmuel-horovitch]] | Shmuel Horovitch | Chassid | - |
-| [[E018-yechezkel-kharkov]] | Yechezkel of Kharkov | Chassid | - |
+| [[E018-yechezkel-kharkov]] | Yechezkal of Kharkov | Chassid | - |
 | [[E019-lulav-gpu]] | Lulav | G.P.U. Official | 1920s |
 | [[E020-michoel-dworkin]] | Reb Michoel Dworkin | Chassid | 1920s |
 | [[E021-madam-peshkova]] | Madam Peshkova | Political Prisoner Relief | 1920s-1930s |
 | [[E022-elyahu-chaim-althaus]] | Rabbi Eliyahu Chaim Althaus | Chassid, Secretary | 1920s-1930s |
+| [[E023-reb-dovid]] | Reb Dovid (the Butcher) | Merchant | 1890s |
+| [[E024-reb-elchonon-morosow]] | Rabbi Elchanan Dovber Morosow | Secretary | 1920s |
+| [[E025-dovid-katzenelenbogen]] | Rabbi Dovid Tevel Katzenelenbogen | Chief Rabbi of Leningrad | 1920s |
+| [[E026-reb-meyer]] | Reb Meyer | Chassid | 1920s |
+| [[E027-rabbi-dubin]] | Rabbi Dubin | Rabbi | 1920s |
 
 ### Places
 
@@ -86,7 +91,7 @@ tags: [gardenEntry]
 
 ---
 
-## Concepts (11)
+## Concepts (16)
 
 | ID | Title | Tags |
 |----|-------|------|
@@ -101,6 +106,11 @@ tags: [gardenEntry]
 | [[C009-gpu-soviet-secret-police]] | G.P.U. — Soviet Secret Police | persecution, soviet |
 | [[C010-yevsektzia]] | Yevsektzia — Jewish Communists | persecution, soviet |
 | [[C011-spiritual-courage]] | Spiritual Courage in Face of Persecution | courage, faith |
+| [[C012-sefer-hasichot]] | Sefer HaSichot (Book of Discourses) | rayatz-writings, sichos |
+| [[C013-reshimat-hamaaser]] | Reshimat HaMaamar (Account of the Arrest) | prison-memoir, 1927 |
+| [[C014-spalerno-prison]] | Spalerno Prison | soviet, prison, leningrad |
+| [[C015-the-vaad]] | The Va'ad (Underground Organization) | underground-organization, soviet-resistance |
+| [[C016-igrot-kodesh]] | Igrot Kodesh (Holy Letters) | correspondence, rayatz-writings |
 
 ---
 
@@ -141,9 +151,9 @@ tags: [gardenEntry]
 
 - **Total Sources:** 18 (Undaunted + 3 Toldot Chabad volumes + S017 + S018)
 - **Sources Processed:** 18 (all complete)
-- **Entities Created:** 22 people + 8 places + 5 institutions = 35 entities
-- **Concepts Identified:** 11 concepts
-- **Wiki Pages Total:** 53
+- **Entities Created:** 27 people + 8 places + 5 institutions = 40 entities
+- **Concepts Identified:** 16 concepts
+- **Wiki Pages Total:** 58+
 
 ---
 

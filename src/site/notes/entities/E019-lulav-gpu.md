@@ -6,7 +6,6 @@ era: 1920-1930
 roles: [gpu-official, yevsekzia]
 nationality: soviet
 related: [E015-nachmanson, rayatz, S018-the-heroic-struggle]
-
 ---
 
 # Lulav (G.P.U. Official)
