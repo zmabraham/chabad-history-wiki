@@ -1,3 +1,7 @@
+---
+tags: [gardenEntry]
+---
+
 # Chabad History Wiki - Index
 
 > **Last Updated:** 2026-04-13 20:00
