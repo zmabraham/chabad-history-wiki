@@ -158,3 +158,27 @@ Extracted and processed three volumes from Toldot Chabad series:
 ---
 
 *Last entry: 2026-04-13 20:00*
+
+### 20:15 — S018 Entity Extraction Complete
+- Extracted 5 new entities from S018:
+  - [[E023-reb-dovid]] — Reb Dovid the Butcher
+  - [[E024-reb-elchonon-morosow]] — Rabbi Elchanan Dovber Morosow (Secretary)
+  - [[E025-dovid-katzenelenbogen]] — Rabbi Dovid Tevel Katzenelenbogen (Chief Rabbi of Leningrad)
+  - [[E026-reb-meyer]] — Reb Meyer (Chassid)
+  - [[E027-rabbi-dubin]] — Rabbi Dubin
+- Created 5 new concepts:
+  - [[C012-sefer-hasichot]] — Sefer HaSichot (Book of Discourses)
+  - [[C013-reshimat-hamaaser]] — Reshimat HaMaamar (Account of the Arrest)
+  - [[C014-spalerno-prison]] — Spalerno Prison
+  - [[C015-the-vaad]] — The Va'ad (Underground Organization)
+  - [[C016-igrot-kodesh]] — Igrot Kodesh (Holy Letters)
+- Updated index.md statistics: 27 people + 8 places + 5 institutions = 40 entities, 16 concepts
+- Fixed YAML frontmatter syntax issues for site build
+- Deployed updated wiki to GitHub Pages
+
+### 20:30 — Wiki Updated Statistics
+- Total pages: 58+
+- Sources processed: 18/18 (all complete)
+- Entities: 40 (27 people, 8 places, 5 institutions)
+- Concepts: 16
+
